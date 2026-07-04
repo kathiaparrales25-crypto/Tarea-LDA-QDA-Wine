@@ -26,4 +26,4 @@ y Cuadrático (QDA), e implementa ambos modelos en Python usando el Wine Dataset
   útil en datasets donde las clases muestren covarianzas claramente distintas.
 
 ## Informe técnico
-El informe técnico en PDF con la investigación teórica se encuentra en Google Drive: [pega aquí tu enlace]
+El informe técnico en PDF con la investigación teórica se encuentra en Google Drive: https://drive.google.com/file/d/1n6gIsEIbYNYyIs8RtgogMiiII7a-CUkF/view?usp=sharing
